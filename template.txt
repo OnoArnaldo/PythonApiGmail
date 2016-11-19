@@ -1,0 +1,7 @@
+Dear $friend,
+
+I have sent you $thing.
+
+Regards,
+Me
+mobile: 0000 1111

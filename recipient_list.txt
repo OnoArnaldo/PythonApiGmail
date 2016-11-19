@@ -1,0 +1,2 @@
+email,friend,thing
+recipient@email.com, John Lennon, a New Album
